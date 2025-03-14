@@ -38,7 +38,7 @@
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/your-username/nextjs-pwa-template.git
+git clone https://github.com/AlfredPur01/nextjs-pwa-template.git
 cd nextjs-pwa-template
 ```
 
@@ -167,12 +167,12 @@ export const metadata = {
 ---
 
 ## 📚 Documentation
-- [Project Wiki](https://github.com/your-username/nextjs-pwa-template/wiki)
+- [Project Wiki](https://github.com/AlfredPur01/nextjs-pwa-template/wiki)
 - [API Reference](/docs/API.md)
 - [Design System](/design-system.fig)
 
 ---
 
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)  
+  
 **Contribute**: [Guidelines](/CONTRIBUTING.md)  
-**Report Issues**: [GitHub Issues](https://github.com/your-username/nextjs-pwa-template/issues)
+**Report Issues**: [GitHub Issues](https://github.com/AlfredPur01/nextjs-pwa-template/issues)

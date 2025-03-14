@@ -1,4 +1,3 @@
-// src/app/page.tsx
 import { Layout } from '@/components/layout'
 
 export default function Home() {

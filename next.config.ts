@@ -10,7 +10,6 @@ const withPWA = withPWAInit({
 
 const config: NextConfig = {
   reactStrictMode: true,
-  swcMinify: true,
   images: {
     domains: ['api.placeholder.com'],
   },
